@@ -3,12 +3,18 @@ meu notebooklm para estudos sobre Marx;
 Eu sempre quis saber a fundo o que eram e como eram as teorias e filosofias Marxistas,esse notebook tem o intuito de sanar duvidas e esclarecer fatos de hoje em dia que podem ser explicados por Marx.
 alguns links para leitura: 
 https://www.pstu.org.br/FormacaoConteudo/Livros/01_Marx-Engels_Manifesto-Comunista_NOVO.pdf 
+
 https://mom.arq.ufmg.br/mom/02_babel/textos/marx-capital-1-portugues.pdf 
+
 https://dn720004.ca.archive.org/0/items/marx-uma-introducao-by-jorge-grespan-z-lib.org-1/Marx%20uma%20introduc%CC%A7a%CC%83o%20by%20Jorge%20Grespan%20%28z-lib.org%29%20%281%29.pdf 
+
 algumas perguntas básicas que eu fiz,para que conseguisse fazer esse notebook:
+
 - "quem é Karl Marx?" :**Karl Marx** (1818–1883) foi um filósofo, economista, sociólogo e ativista político alemão, considerado um dos intelectuais mais influentes da história e um dos fundadores do socialismo científico e da sociologia moderna. Nascido em Tréveris (Alemanha/Prússia), viveu grande parte da sua vida no exílio na França e em Inglaterra, onde analisou as profundas transformações provocadas pela Revolução Industrial e pela consolidação do capitalismo;
+  
 - "qual era a sua intenção?" : A intenção central de Karl Marx ao elaborar a sua obra e teoria era a **transformação revolucionária da realidade social** através da união indissociável entre a reflexão teórica e a ação prática (a **práxis**). As suas fontes articulam essa intenção em três objetivos fundamentais:
 1-MUDAR O MUNDO EM VEZ DE INTERPRETAR,2-DESVELAR A EXPLORAÇÃO E ABOLIR A PROPRIEDADE PRIVADA e 3-ALCANÇAR A EMANCIPAÇÃO HUMANA PLENA;
+  
 um resumo do meu notebook sobre Marx:
 5 Conceitos de Karl Marx Que Desafiam o Que Julgavas Saber Sobre a Sociedade
 
